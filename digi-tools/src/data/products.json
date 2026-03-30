@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Unlimited AI generations", "50+ writing templates", "Grammar checker"],
+    "icon": "✍️"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Professional design templates for presentations, social media, and marketing materials.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["500+ premium templates", "Fully editable", "Commercial license"],
+    "icon": "🎨"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access millions of high-quality stock photos, videos, and graphics for your projects.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Millions of assets", "4K quality", "New content daily"],
+    "icon": "📸"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Streamline your workflow with powerful automation tools and integrations.",
+    "price": 79,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["100+ integrations", "Custom workflows", "Advanced analytics"],
+    "icon": "⚙️"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters that get you hired faster.",
+    "price": 15,
+    "period": "one-time",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["20+ templates", "ATS optimization", "PDF export"],
+    "icon": "📄"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Content Kit",
+    "description": "Plan, create, and schedule engaging social media content across all platforms.",
+    "price": 39,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": ["Content calendar", "Analytics dashboard", "Multi-platform posting"],
+    "icon": "📱"
+  },
+  {
+    "id": 7,
+    "name": "Video Editing Suite",
+    "description": "Professional video editing tools with effects, transitions, and AI enhancements.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": ["4K editing", "AI effects", "Stock library access"],
+    "icon": "🎬"
+  },
+  {
+    "id": 8,
+    "name": "SEO Optimization Tools",
+    "description": "Boost your website rankings with comprehensive SEO analysis and optimization tools.",
+    "price": 45,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best-seller",
+    "features": ["Keyword research", "Competitor analysis", "Rank tracking"],
+    "icon": "🔍"
+  }
+]
